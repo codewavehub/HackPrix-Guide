@@ -1,4 +1,4 @@
-# Register HackPrix Hackathon
+# Register for HackPrix Hackathon 2024
 _A Step-by-Step Guide_
 
 **Are you excited to participate in HackPrix, one of the most anticipated hackathons of the year?**
@@ -31,7 +31,7 @@ After receiving the team code, make sure to copy it and share it with your team 
 It's crucial that every member of your team completes their individual registration process. This ensures that all team members are officially registered for HackPrix and can participate in the event.
 
 ### Step 9: Join the Discord Server
-Finally, join the official HackPrix Discord server. This is where you'll receive important updates, announcements, and communication regarding the event. It's also a great place to connect with other participants, ask questions, and collaborate on projects. Joining of Discord server is mandatory for all the hackers/audience.
+Finally, join the official [CodeWave Hub Discord server](https://discord.gg/7WmdUTxV). This is where you'll receive important updates, announcements, and communication regarding the event. It's also a great place to connect with other participants, ask questions, and collaborate on projects. Joining of Discord server is mandatory for all the hackers/audience.
 
 By following these steps, you'll be well on your way to registering for HackPrix and embarking on an exciting journey filled with coding challenges, networking opportunities, and the chance to win amazing prizes. Good luck, and we look forward to seeing your brilliant ideas come to life at HackPrix!
 
